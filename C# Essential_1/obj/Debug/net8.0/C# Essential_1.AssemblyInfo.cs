@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Essential_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74c62aea6ca99aab2cd2945daeec93fd234f10e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Essential_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Essential_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
